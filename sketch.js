@@ -13,8 +13,8 @@ let kconst = 89.9;//89.9
 let gconst = 1;
 
 let numpro = 1;
-let numneu = 0;
-let numele = 2;
+let numneu = 1;
+let numele = 30;
 
 class Quirky {
 
